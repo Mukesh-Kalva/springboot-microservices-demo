@@ -60,8 +60,6 @@ helm install catalog ./deploy/helm/catalog
 **Mukesh Kalva**
 [GitHub](https://github.com/Mukesh-Kalva)
 
-```
-  
 
 Do you also want me to give you an **ASCII architecture diagram** (text-based) so it still looks good directly in GitHub README without needing images?
-```
+`
